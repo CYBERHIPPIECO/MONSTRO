@@ -5,6 +5,9 @@
 It all starts with a whiteshaped boy who waved towards Monstro, and Monstro decided to find the boy so he could hug him. 
 Dropbox has image scans of the project
 
+Old e-mail from 2010.
+"A 2D game where you are an 8bit monster that wants to expand its body. You can't modify and expand by yourself and because of that you need to breed smaller monsters or humans to feed you and nourish you. Obstacles on your way include people who discover you and hate you, or other wild animals. As you grow the space becomes an issue. As you are underground at first you expand above slowly reaching the city and civilization. The difficulty to grow increases as the 'natural environment' tries to fight back. You can create specialist body parts that infest, defend and feed you."
+
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
 Description.
